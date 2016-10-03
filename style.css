@@ -1,0 +1,171 @@
+body
+{
+	background-color: #dbf5ff;
+	color: #000000;
+	margin: 0 !important;
+	font-size: 15px;
+	font-family: 'PT Sans', sans-serif;
+	
+}
+
+
+#cont
+{
+	
+	
+	width:100%;
+	
+	
+	
+}
+
+#logo
+{
+	
+	
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+	
+	
+	
+	
+}
+
+#belkamenu
+{
+	width: 100%;
+	background-color: #2a8ac8;
+	color: #FFFFFF;
+	text-align: center;
+	background-image: url(belka.jpg);
+	background-repeat: repeat-x;
+}
+
+#menu
+{
+	width: 330px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 15px;
+	
+}
+
+.opcja
+
+
+{
+	
+	float: left;
+	min-width: 50px;
+	height: 20px;
+	font-size: 16px;
+	padding: 10px;
+	font-weight: bold;
+	border-right: 2px dotted #FFFFFF;
+	
+	
+	
+}
+
+a
+
+{
+	
+	color:#FFFFFF;
+	text-decoration: none;
+	
+	
+}
+	
+	
+	a:hover {
+
+  color: #ffd800;
+
+}
+
+#content
+{
+	max-width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:40px;
+	text-align: justify;
+	
+}
+
+h2
+{
+	text-align: center;
+	
+}
+	
+	
+#belkastopka1
+{
+	
+	width:100%;
+	background-color: #2a8ac8;
+	background-image: url(belkastopka1.jpg);
+	background-repeat: repeat;
+	
+	
+	
+}	
+
+#belkastopka2
+{
+	
+	width:100%;
+	background-color: #ffd800;
+	background-image: url(belkastopka2.jpg);
+	background-repeat: repeat;
+	
+	
+}	
+
+#stopka1
+
+{
+	
+	max-width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 30px;
+	
+	
+	
+}
+
+.span4 {
+    width: 45%;
+    margin: 0 2.5%;
+}
+.span4 > img {
+    width: 100%;
+    padding-top: 56.25%;
+    display: block;
+}
+	#stopka2
+
+{
+	
+	max-width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 10px;
+	font-weight: bold;
+	color:#0077ae;
+	
+	
+}
+	
+#odnosnik
+{
+color:"#ff0000"
+}	
